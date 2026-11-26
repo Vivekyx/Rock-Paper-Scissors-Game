@@ -35,4 +35,4 @@ I added a scoring system, winning streak and match result to make the game more 
 
 # Author:
 
-Created by Vivek Yadav GitHub: "@vivekyx"
+Created by Vivek Yadav
